@@ -31,6 +31,8 @@
 | 재활용맵 | 탄소 중립 소개 |
 | <img src="./readme/recycleMap.gif" width="400"/> | <img src="./readme/carvon.gif"  width="400"/> | -->
 
+기타 기능들은 ppt첨부파일 확인
+
 <br />
 
 ## ⚙ 사용 기술 스택
