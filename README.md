@@ -25,7 +25,7 @@
 ### 화면 구성
 | 로그인 | 마이페이지 |
 |:---:|:---:|
-| <img src="./readme/screen1.gi f" width="400"/> | <img src="./readme/search.gif" width="400"/> |
+| <img src="./readme/login.gif" width="400"/> | <img src="./readme/mypage.gif" width="400"/> |
 <!-- | ai판독기 | 폐기물 연락처 |
 | <img src="./readme/aiCamera.gif" width="400"/> | <img src="./readme/waste.gif" width="400"/> |
 | 재활용맵 | 탄소 중립 소개 |
