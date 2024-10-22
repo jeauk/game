@@ -22,8 +22,6 @@
 
 <br />
 
-## 🌟 프로젝트 화면 구성 및 프로토타입
-
 ### 화면 구성
 | 로그인 | 마이페이지 |
 |:---:|:---:|
@@ -57,11 +55,6 @@
 <div>
     <img src="./readme/Github.png" width="80">
 </div>
-
-<br />
-
-## 🛠 프로젝트 아키텍처
-<img src="./readme/architecture.png" alt="프로젝트 아키텍처" width="600"/>
 
 <br />
 
